@@ -1,0 +1,13 @@
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── TaskItem.jsx
+│   ├── TaskList.jsx
+│   ├── TaskDetails.jsx
+│   ├── ProgressTracker.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── CompletedTasks.jsx
+│   ├── Settings.jsx
+├── App.js
+├── index.js
